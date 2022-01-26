@@ -28,9 +28,17 @@ body {
 }
 
 h1 {
-  font-size: 17;
+  font-size: 26px;
 }
 
 p {
   margin: 33px;
+}
+
+.area p {
+  margin: 0;
+}
+
+.area {
+  margin: 0 0 10px;
 }
